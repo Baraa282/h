@@ -1,0 +1,17 @@
+
+body {
+    background-image: url('/img/im.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    color: #1c63e7;
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+    margin: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
